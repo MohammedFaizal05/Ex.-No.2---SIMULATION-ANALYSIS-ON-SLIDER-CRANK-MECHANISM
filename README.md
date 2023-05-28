@@ -48,7 +48,7 @@
 ![image](https://github.com/MohammedFaizal05/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/120553195/bcea77b3-240c-4253-bf05-e059f0ae184a)
 
 
-### Name:Mohammed Faizal.J
+### Name: Mohammed Faizal.J
 
 ### Register Number: 212222100027
 
